@@ -1,0 +1,8 @@
+# Versions used for the reported results (Python 3.13)
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
+# Optional: only to read input_data/hourly_candles.parquet directly.
+# Without it the script reads the CSV mirror (same values).
+# pyarrow

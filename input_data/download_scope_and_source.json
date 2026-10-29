@@ -1,0 +1,19 @@
+{
+  "source": "Kalshi public REST API",
+  "series_ticker": "KXNETFLIXRANKMOVIE",
+  "snapshot_utc": "2026-10-23T02:33:26+00:00",
+  "events": 94,
+  "markets": 1192,
+  "hour_rows": 104392,
+  "nonmissing_price_hours": 24884,
+  "positive_volume_hours": 24884,
+  "events_with_exactly_one_yes": 90,
+  "statuses": {
+    "ok": 1190,
+    "empty": 2
+  },
+  "first_hour_utc": "2025-01-10T01:00:00+00:00",
+  "last_hour_utc": "2026-10-23T02:00:00+00:00",
+  "interval_minutes": 60,
+  "scope": "All currently listed live and historical markets, and available hourly candles. No tick-level trades or full order-book history."
+}
